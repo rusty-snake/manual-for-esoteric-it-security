@@ -1,0 +1,9 @@
+title: Manual for Esoteric IT Security [WIP]
+# description:
+repository: rusty-snake/manual-for-esoteric-it-security
+
+markdown: kramdown
+kramdown:
+  input: kramdown
+
+# theme:
